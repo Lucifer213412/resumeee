@@ -1,0 +1,28 @@
+.main{
+    background-color: #B5C18E;
+    align-self: baseline;
+    padding: 10px
+    
+}
+
+html{
+    background-color: #eef0db;
+}
+li{
+    color: rgb(7, 94, 32);
+}
+.summary{
+    width: 100%;
+    text-align: center;
+    
+}
+.Contact{
+    background-color:#979f7d ;
+}
+img{
+    float:left;
+    padding: 20px;
+}
+#summar{
+    text-align: left;
+}
